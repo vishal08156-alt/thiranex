@@ -116,9 +116,7 @@ jupyter notebook
 
 **Vishal K**
 
-GitHub: https://github.com/your-username
-
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+LinkedIn: www.linkedin.com/in/vishal-k-435a2534b
 
 ---
 
